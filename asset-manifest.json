@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adnprofile/static/css/main.b333d6b2.css",
-    "main.js": "/adnprofile/static/js/main.0ccf161b.js",
+    "main.js": "/adnprofile/static/js/main.b76660eb.js",
     "static/js/787.7161b6d4.chunk.js": "/adnprofile/static/js/787.7161b6d4.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/adnprofile/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/profileimg.png": "/adnprofile/static/media/profileimg.ac4aa5afdb81efd90857.png",
@@ -13,11 +13,11 @@
     "static/media/github.png": "/adnprofile/static/media/github.22cfdd1cba253783ce51.png",
     "index.html": "/adnprofile/index.html",
     "main.b333d6b2.css.map": "/adnprofile/static/css/main.b333d6b2.css.map",
-    "main.0ccf161b.js.map": "/adnprofile/static/js/main.0ccf161b.js.map",
+    "main.b76660eb.js.map": "/adnprofile/static/js/main.b76660eb.js.map",
     "787.7161b6d4.chunk.js.map": "/adnprofile/static/js/787.7161b6d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b333d6b2.css",
-    "static/js/main.0ccf161b.js"
+    "static/js/main.b76660eb.js"
   ]
 }
