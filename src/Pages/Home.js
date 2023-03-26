@@ -69,11 +69,11 @@ const Home = () => {
               <br />
               <div className="row">
                 <div className="col-sm-4 col-6">
-                  <Link to="/services">
+                  <a href={Pdf} target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-primary">
                       Resume
                     </button>
-                  </Link>
+                  </a>
                 </div>
                 <div className="col-sm-5 col-6">
                   <Link to="/contact">
