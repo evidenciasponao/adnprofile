@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adnprofile/static/css/main.a6f3db6e.css",
-    "main.js": "/adnprofile/static/js/main.f5115cbd.js",
+    "main.js": "/adnprofile/static/js/main.3d34e9cc.js",
     "static/js/787.7161b6d4.chunk.js": "/adnprofile/static/js/787.7161b6d4.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/adnprofile/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/profileimg.png": "/adnprofile/static/media/profileimg.ac4aa5afdb81efd90857.png",
@@ -13,11 +13,11 @@
     "static/media/github.png": "/adnprofile/static/media/github.22cfdd1cba253783ce51.png",
     "index.html": "/adnprofile/index.html",
     "main.a6f3db6e.css.map": "/adnprofile/static/css/main.a6f3db6e.css.map",
-    "main.f5115cbd.js.map": "/adnprofile/static/js/main.f5115cbd.js.map",
+    "main.3d34e9cc.js.map": "/adnprofile/static/js/main.3d34e9cc.js.map",
     "787.7161b6d4.chunk.js.map": "/adnprofile/static/js/787.7161b6d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6f3db6e.css",
-    "static/js/main.f5115cbd.js"
+    "static/js/main.3d34e9cc.js"
   ]
 }
