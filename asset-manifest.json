@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/adnprofile/static/css/main.b333d6b2.css",
-    "main.js": "/adnprofile/static/js/main.b76660eb.js",
-    "static/js/787.7161b6d4.chunk.js": "/adnprofile/static/js/787.7161b6d4.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/adnprofile/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/profileimg.png": "/adnprofile/static/media/profileimg.ac4aa5afdb81efd90857.png",
-    "static/media/fontawesome-webfont.eot": "/adnprofile/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/adnprofile/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/adnprofile/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/adnprofile/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/andersonmontenegro.pdf": "/adnprofile/static/media/andersonmontenegro.f8416361b67592fc2b31.pdf",
-    "static/media/github.png": "/adnprofile/static/media/github.22cfdd1cba253783ce51.png",
-    "index.html": "/adnprofile/index.html",
-    "main.b333d6b2.css.map": "/adnprofile/static/css/main.b333d6b2.css.map",
-    "main.b76660eb.js.map": "/adnprofile/static/js/main.b76660eb.js.map",
-    "787.7161b6d4.chunk.js.map": "/adnprofile/static/js/787.7161b6d4.chunk.js.map"
+    "main.css": "/myportfolio-anderson/static/css/main.6ee72db8.css",
+    "main.js": "/myportfolio-anderson/static/js/main.5d9fa105.js",
+    "static/js/787.1168c397.chunk.js": "/myportfolio-anderson/static/js/787.1168c397.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/myportfolio-anderson/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/profileimg.png": "/myportfolio-anderson/static/media/profileimg.ac4aa5afdb81efd90857.png",
+    "static/media/fontawesome-webfont.eot": "/myportfolio-anderson/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myportfolio-anderson/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/myportfolio-anderson/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myportfolio-anderson/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/andersonmontenegro.pdf": "/myportfolio-anderson/static/media/andersonmontenegro.e08b8d3afeb6e374c6b7.pdf",
+    "static/media/github.png": "/myportfolio-anderson/static/media/github.22cfdd1cba253783ce51.png",
+    "index.html": "/myportfolio-anderson/index.html",
+    "main.6ee72db8.css.map": "/myportfolio-anderson/static/css/main.6ee72db8.css.map",
+    "main.5d9fa105.js.map": "/myportfolio-anderson/static/js/main.5d9fa105.js.map",
+    "787.1168c397.chunk.js.map": "/myportfolio-anderson/static/js/787.1168c397.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b333d6b2.css",
-    "static/js/main.b76660eb.js"
+    "static/css/main.6ee72db8.css",
+    "static/js/main.5d9fa105.js"
   ]
 }
